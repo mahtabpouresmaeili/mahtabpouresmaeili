@@ -1,43 +1,36 @@
-# 👋 Hi there, I'm Mahtab Pouresmaeili!
+# 👋 Hi, I’m Mahtab Pouresmaeili
 
-I'm a passionate **Frontend Developer & UX/UI Designer** who loves creating beautiful and user-friendly digital experiences.
+💻 **Frontend Developer & UX/UI Designer | Former Registered Nurse**  
 
----
-
-### 👀 I’m interested in:
-- UX/UI Design, Frontend Development
-- Web Accessibility & Responsive Design
-- Design Systems & Prototyping
-- Creative Projects & Digital Storytelling
-
-### 🌱 I’m currently learning:
-- Advanced JavaScript & React
-- Frontend Performance Optimization
-- Figma Component Libraries & Design Tokens
-
-### 💞️ I’m looking to collaborate on:
-- Open source frontend projects
-- UX research or UI design challenges
-- Real-world product UI/UX improvements
-
-### 📫 How to reach me:
-- 📧 Email: [mahtabpouresmaeili@gmail.com](mailto:mahtabpouresmaeili@gmail.com)
-- 💼 Portfolio: [designbymahtab.com](https://mediabymahtab.com)
-- 💬 LinkedIn: [linkedin.com/in/mahtabpouresmaeili](https://linkedin.com/in/mahtabpouresmaeili)
-
-### 😄 Pronouns:
-She/Her
-
-### ⚡ Fun fact:
-I made the leap from nursing to design—and I haven’t looked back since. Creativity fuels me every day!
+I design and build **responsive, user-friendly web applications** using **HTML, CSS, JavaScript, React, and Figma**. My projects combine creativity, functionality, and accessibility, turning ideas into real digital experiences.
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+## 🌟 Skills
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **UI/UX Design:** Figma, Wireframes, Prototypes, User Flows  
+- **Tools & Practices:** Git/GitHub, Responsive Design, Accessibility, BEM, Tailwind CSS  
 
-<!---
-mahtabpouresmaeili/mahtabpouresmaeili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
---->
+## 🚀 Featured Projects
+Here are some highlights from my portfolio:
+
+1. **To-Do List App:** Full CRUD functionality, responsive, interactive UI.  
+2. **Online Eyewear Store:** End-to-end responsive web and mobile experience.  
+3. **Calculator App:** Interactive and clean UI, built with JavaScript.  
+4. **Airbnb Redesign:** UX/UI case study focusing on booking flow and personalization.  
+
+Check all projects on my GitHub: [GitHub Profile](https://github.com/mahtabpouresmaeili)
+
+---
+
+## ✨ About Me
+I bring a **people-first mindset** from my nursing background to tech—creating web applications that are intuitive, accessible, and impactful. I’m passionate about merging **empathy, design, and technology** to craft solutions that improve user experiences.
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn URL]  
+- Portfolio: [Your Portfolio URL]  
+
