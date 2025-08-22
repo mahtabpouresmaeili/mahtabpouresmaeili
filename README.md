@@ -31,6 +31,6 @@ I bring a **people-first mindset** from my nursing background to tech—creating
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn URL]  
-- Portfolio: [Your Portfolio URL]  
+- LinkedIn[https://www.linkedin.com/in/mahtab-pouresmaeili]  
+- Portfolio: [desginbymahtab.com]  
 
