@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mahtab Pouresmaeili
 
-💻 **Frontend Developer & UX/UI Designer | Former Registered Nurse**  
+💻 **Frontend Developer 
 
 I design and build **responsive, user-friendly web applications** using **HTML, CSS, JavaScript, React, and Figma**. My projects combine creativity, functionality, and accessibility, turning ideas into real digital experiences.
 
